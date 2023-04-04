@@ -27,5 +27,8 @@
     </div>  
     
 ![snake gif](https://github.com/festanna/festanna/blob/output/github-contribution-grid-snake.svg)
+
+[![Snake Game](https://github.com/festanna/festanna/actions/workflows/ConfigSnake.yml/badge.svg)](https://github.com/festanna/festanna/actions/workflows/ConfigSnake.yml)
+
     
     
