@@ -26,6 +26,6 @@
         <a href="https://www.youtube.com/channel/UC4dI1c9UtQL1jwcxQliX6Yw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>       
     </div>  
     
-![Snake anmation](https://github.com/festanna/festanna/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/festanna/festanna/blob/output/github-contribution-grid-snake.svg)
     
     
